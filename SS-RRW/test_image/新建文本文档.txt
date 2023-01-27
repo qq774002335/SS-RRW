@@ -1,0 +1,4 @@
+DATASET OF STANDARD 512X512 GRAYSCALE TEST IMAGES
+https://ccia.ugr.es/cvg/CG/base.htm
+ImageProcessingPlace.com
+http://www.imageprocessingplace.com/root_files_V3/image_databases.htm
